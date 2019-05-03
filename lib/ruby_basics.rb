@@ -4,11 +4,10 @@ end
 
 def assign_variable(value)
   name = value
-  
 end
 
-def argue
-  
+def argue(arg)
+  arg
 end
 
 def greeting
